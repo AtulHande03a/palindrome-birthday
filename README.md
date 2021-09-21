@@ -1,5 +1,7 @@
 # palindrome-birthday
-This app checks your birthdate in 4 formats yyyy-mm-dd, dd-mm-yyyy, mm-dd-yy, m-dd-yyyy and tells you weather your birthday is a palindrome or not :D
+A VanillaJS app that takes your Date of Birth as input and tells whether your birthday is palindrome or not in any of the 6 different formats
+
+The 6 different formats to check palindrome date are: dd-mm-yyyy / mm-dd-yyyy / yyyy-mm-dd / dd-mm-yy / mm-dd-yy / yy-mm-dd
 
 https://palindrome-bday-web.netlify.app/
 
